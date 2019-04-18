@@ -1,8 +1,0 @@
-/home/ben/Projects/Heap/Heap/bin/Release/netstandard2.0/Heap.deps.json
-/home/ben/Projects/Heap/Heap/bin/Release/netstandard2.0/Heap.dll
-/home/ben/Projects/Heap/Heap/bin/Release/netstandard2.0/Heap.pdb
-/home/ben/Projects/Heap/Heap/obj/Release/netstandard2.0/Heap.csproj.CoreCompileInputs.cache
-/home/ben/Projects/Heap/Heap/obj/Release/netstandard2.0/Heap.AssemblyInfoInputs.cache
-/home/ben/Projects/Heap/Heap/obj/Release/netstandard2.0/Heap.AssemblyInfo.cs
-/home/ben/Projects/Heap/Heap/obj/Release/netstandard2.0/Heap.dll
-/home/ben/Projects/Heap/Heap/obj/Release/netstandard2.0/Heap.pdb

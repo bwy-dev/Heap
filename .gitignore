@@ -1,4 +1,2 @@
-/Heap/bin/Debug/*
-/Heap/bin/Release/*
-/Heap/obj/Debug/*
-/Heap/obj/Release/*
+**/Debug
+**/Release
